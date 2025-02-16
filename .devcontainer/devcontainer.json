@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu", // Ubuntu tabanlı bir imaj
+  "features": {
+    "desktop-lite": {
+      "version": "latest"
+    }
+  }
+}
